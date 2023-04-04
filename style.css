@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+.header {
+  background: rgba(255, 255, 255, 1);
+  width: 100vw;
+  height: 10vh;
+  border-bottom: 1px solid rgba(168, 168, 168, 0.25);
+  box-shadow: 0px 4px 8px rgba(168, 168, 168, 0.25);
+}
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.head__travel {
+  color: rgba(10, 119, 119, 1);
+  text-decoration: none;
+}
+
+.head__info {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 1);
+}
+
+.Rectangle {
+
+}
+
+.paragraph {
+
+}
+
+.small paragraph {
+
+}
