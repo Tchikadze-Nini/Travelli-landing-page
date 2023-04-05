@@ -36,13 +36,99 @@
 }
 
 .Rectangle {
-
+padding: 40px 710px ;
 }
 
 .paragraph {
+  font-family: Istok Web;
+  font-size: 23px;
+  font-weight: 450;
+  line-height: 69px;
+  color: rgba(0, 0, 0, 1);
+  padding: 5px 90px ;
+}
+
+.vectors{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-left: 15vw;
+  margin-right: 15vw;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+.number {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-left: 60vw;
+  margin-right: 5vw;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 29px;
+  color: rgba(10, 119, 119, 1);
+}
+
+.about_heading {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-left: 58vw;
+  margin-right: 5vw;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 27px;
+  color: rgba(0, 0, 0, 1);
+}
+
+.about {
+  color: rgba(10, 119, 119, 1);
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-left: 58vw;
+  margin-right: 5vw;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.ever_wish{
+font-family: Istok Web;
+font-size: 31px;
+font-weight: 300;
+line-height: 69px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(0, 0, 0, 1);
 
 }
 
-.small paragraph {
-
+.head_text {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-left: 58vw;
+  margin-right: 5vw;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 27px;
+  color: rgba(0, 0, 0, 1);
 }
